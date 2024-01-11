@@ -1,2 +1,7 @@
 File to push from work repository to remote
 update it 
+
+git add .
+git commit -m "modified"
+git push -u origin main
+
